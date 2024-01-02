@@ -15,9 +15,13 @@ user to access the result. The student can share or download
 his/here result. 
 
 TECHNOLOGIES:
-Front end :HTML,CSS,JAVASCRIPT
+
+Front end :HTML5,CSS3,JAVASCRIPT
+
 Back end :python Django
+
 Database :MySQL
+
 IDE used :pycharm
 
 TEAM NAME : Harish.V & Bharath.P
